@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript(Angular,NodeJS,MongoDB), C# (ASP.NET)
 - 🌱 I’m currently learning Java, Python (Maybe SWIFT in future)
 - 💞️ I’m looking to collaborate on Projects that use javascript to create realtime technologies 
-- 📫 How to reach me ajit.thakur101@gmail.com
+- 📫 How to reach me ajitthakurak@icloud.com ajit.thakur101@gmail.com
 
 <!---
 ajitthakurak/ajitthakurak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
