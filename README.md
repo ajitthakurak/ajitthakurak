@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajitthakurak
-- 👀 I’m interested in Javascript(Angular,NodeJS,MongoDB), C# (ASP.NET)
-- 🌱 I’m currently learning Java, Python (Maybe SWIFT in future)
-- 💞️ I’m looking to collaborate on Projects that use javascript to create realtime technologies 
+- 👀 I’m interested/working in C# (ASP.NET) - dotnetcore, SWIFT, Javascript(Angular,NodeJS), SQL, MongoDB
+- 🌱 I’m currently learning Java, Python
+- 💞️ I’m looking to collaborate on Projects that use above mentioned Programming Languages.
 - 📫 How to reach me ajitthakurak@icloud.com ajit.thakur101@gmail.com
 
 <!---
