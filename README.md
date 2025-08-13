@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajitthakurak
-- 👀 I’m interested/working in C# (ASP.NET) - dotnetcore, Python, SWIFT, Kotlin, Javascript(Angular,NodeJS), SQL, MongoDB, AI Engineering and Integration
+- 👀 I’m interested/working in C# (ASP.NET) - dotnetcore, Python, SWIFT, Kotlin, Javascript(Angular,React,NodeJS), SQL, MongoDB, AI Engineering and Integration
 - 💞️ I’m looking to collaborate on Projects that use above mentioned Programming Languages.
 - 📫 How to reach me ajitthakurak@icloud.com ajit.thakur101@gmail.com
 
